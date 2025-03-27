@@ -6,7 +6,7 @@ mongo:latest
 xuxueli/xxl-job-admin:3.0.0
 redis:latest
 rocketmqinc/rocketmq:4.3.2
-mysql/5.7.22
+mysql/mysql-server:5.7.41
 elasticsearch:8.16.4
 homeassistant/home-assistant:latest
 milvusdb/milvus:latest
