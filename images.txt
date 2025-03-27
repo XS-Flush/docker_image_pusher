@@ -2,3 +2,11 @@
 opengrok/docker
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+mongo:latest
+xuxueli/xxl-job-admin:3.0.0
+redis:latest
+rocketmqinc/rocketmq:4.3.2
+mysql/5.7.22
+elasticsearch:8.16.4
+homeassistant/home-assistant:latest
+milvusdb/milvus:latest
