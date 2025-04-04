@@ -11,3 +11,5 @@ elasticsearch:8.16.4
 homeassistant/home-assistant:latest
 milvusdb/milvus:latest
 kibana:8.16.4
+# 风险控制软件
+dependencytrack/bundled
