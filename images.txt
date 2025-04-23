@@ -13,3 +13,4 @@ milvusdb/milvus:latest
 kibana:8.16.4
 # 风险控制软件
 dependencytrack/bundled
+nacos/nacos-server:latest
